@@ -1,4 +1,4 @@
---another conflict
+--another conflict 2
 with
 
 source as (

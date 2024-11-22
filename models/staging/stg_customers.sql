@@ -1,4 +1,4 @@
--- conflict commit
+--another conflict
 with
 
 source as (
